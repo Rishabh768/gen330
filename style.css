@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: gray;
+
+     margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+address{
+    font-size:90%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #ee5f55;
+    color: white;
+  }
